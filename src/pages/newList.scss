@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+.new-list {
+  width: 1000px;
+  padding: 10px 25px 0;
+  margin: 0 auto;
+
+  &-form {
+    color: #555555;
+  }
+
+  &-title {
+    width: 300px;
+    margin-bottom: 25px;
+  }
+
+  &-button {
+    background-color: #242f9b;
+    color: #ffffff;
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;
+  }
+}
